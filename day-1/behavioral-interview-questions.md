@@ -1,3 +1,6 @@
+/////////////////////////// Behavioral Interview Questions ///////////////////////////
+
+
 Tell me a little bit about yourself:
 
     "They need to answer this question with their Elevator pitch: (past - their background, present - how they found Lambda what they’re learning at Lambda a good time to humblebrag about technical skills, future - tie in background and new skills to talk about potential future job)"
