@@ -1,7 +1,7 @@
 /////////////////////////// Behavioral Interview Questions ///////////////////////////
 
 
-Tell me a little bit about yourself:
+1) Tell me a little bit about yourself:
 
     "They need to answer this question with their Elevator pitch: (past - their background, present - how they found Lambda what they’re learning at Lambda a good time to humblebrag about technical skills, future - tie in background and new skills to talk about potential future job)"
 
@@ -17,7 +17,7 @@ Tell me a little bit about yourself:
         - 
 
 
-What kind of work environment are you looking for in the next opportunity you take?:
+2) What kind of work environment are you looking for in the next opportunity you take?:
 
     "Be specific, know about what you want in terms of company culture, size, mentor, etc…try to rope in some specifics about the company (you should have some background on them)"
 
@@ -26,7 +26,7 @@ What kind of work environment are you looking for in the next opportunity you ta
 
 
 
-What are your strengths and weaknesses as a developer?:
+3) What are your strengths and weaknesses as a developer?:
 
     "First way to answer this question is to name a weakness that’s not really a weakness i.e. - “I’m too much of a perfectionist” etc... Second way is to actually provide a weakness but then without being prompted provide how you’re going to FIX the weakness"
 
