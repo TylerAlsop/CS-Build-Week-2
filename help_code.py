@@ -2,10 +2,15 @@
 # second_num =  int(input("second number?"))
 
 
-for num in range(-5, 10):
-    print(num)
+# for num in range(-5, 10):
+#     print(num)
 
 # range_1 = range(1,23)
 # print(range_1)
 
 
+x = list(range(10))
+
+print(x)
+
+list()
